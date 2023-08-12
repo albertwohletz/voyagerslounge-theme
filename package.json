@@ -32,7 +32,7 @@
     },
 	"author": {
 		"name": "Albert Wohletz",
-		"email": "albert@wohletz.net",
+		"email": "albert@wohletz.net"
 	},
 	"repository": {
 		"type": "git",
