@@ -1,7 +1,7 @@
 {
-    "name": "nodebb-theme-quickstart",
+    "name": "voyagers-lounge-custom-theme",
     "version": "0.1.0",
-    "description": "Enter a description here",
+    "description": "Voyager's Lounge Custom Theme",
     "main": "theme.less",
     "keywords": [],
     "license": "MIT",
@@ -29,5 +29,16 @@
         "eslint-plugin-import": "2.x",
         "husky": "5.0.9",
         "lint-staged": "10.5.4"
-    }
+    },
+	"author": {
+		"name": "Albert Wohletz",
+		"email": "albert@wohletz.net",
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/albertwohletz/voyagerslounge-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/albertwohletz/voyagerslounge-theme/issues"
+	}
 }

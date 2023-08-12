@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-quickstart"
+    "id": "voyagers-lounge-custom-theme",
+    "name": "Voyagers Lounge Custom Theme",
+    "description": "Custom theme for the voyagers lounge forum",
+    "url": "https://github.com/albertwohletz/voyagerslounge-theme"
 }
